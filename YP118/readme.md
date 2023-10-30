@@ -1,13 +1,13 @@
 # Natural Language Processing Visualizations
 
-### Wordcloud
-## Title
+## Wordcloud
+### Title
 
-## Abstract
+### Abstract
 
-### Biagram 
-## Title
+## Biagram 
+### Title
 
-## Abstract
+### Abstract
 
 
