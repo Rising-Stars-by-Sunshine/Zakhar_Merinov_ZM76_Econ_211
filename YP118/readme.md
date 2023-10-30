@@ -4,7 +4,7 @@
 ### Title
 ![Title Word Cloud](Title_Worldcloud.png)
 ### Abstract
-![Title Word Cloud](Abstract_Worldcloud.png)
+![Abstract Word Cloud](Abstract_Worldcloud.png)
 ## Biagram 
 ### Title
 
