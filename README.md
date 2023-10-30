@@ -15,3 +15,20 @@ Welcome to my project! Here you'll find tons of inspiration and positivity.
    ```bash
    git clone https://github.com/yourusername/inspirational-project.git
 
+
+
+
+# My Project README
+
+## Figures
+
+### CSCC_AFTERNOONTEAM_Nov34.png
+![CSCC_AFTERNOONTEAM_Nov34](./CSCC_AFTERNOONTEAM_Nov34.png)
+
+### CSCC_Nov34.png
+![CSCC_Nov34](./CSCC_Nov34.png)
+
+### chainlink.png
+![chainlink](./chainlink.png)
+
+
