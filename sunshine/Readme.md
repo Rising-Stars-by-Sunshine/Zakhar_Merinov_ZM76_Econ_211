@@ -16,6 +16,8 @@
 
 
 ### Title
-
+![Title Word Cloud](title_bigram.png)
 
 ###  Abstract
+
+<img src="abstract_bigram.png" alt="Abstract Word Cloud">
