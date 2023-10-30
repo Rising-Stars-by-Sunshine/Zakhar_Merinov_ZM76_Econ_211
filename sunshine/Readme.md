@@ -4,7 +4,7 @@
 
 ### Title
 
-![Title Word Cloud](sunshine/title_wordcloud.png)
+![Title Word Cloud](title_wordcloud.png)
 
 ### Abstract
 
