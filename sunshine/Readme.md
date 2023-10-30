@@ -6,8 +6,8 @@
 
 <figure>
     <img src="./title_wordcloud.png" alt="Title Word Cloud">
-    <figcaption><strong>Figure:</strong> Title Word Cloud</figcaption>
-    <p><em>Notes:</em> This word cloud represents the most frequently used words in the dataset's titles. Larger words were used more often.</p>
+    <figcaption><strong>Figure 1:</strong> Title Word Cloud for the Literature</figcaption>
+    <p><em>Notes:</em> This word cloud represents the most frequently used words in the dataset fo Literare in XXX's titles. Larger words were used more often.</p>
 </figure>
 
 
