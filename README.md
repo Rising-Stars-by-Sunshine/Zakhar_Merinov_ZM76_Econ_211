@@ -1,7 +1,6 @@
 # Econ211-Week2.github.io ✨
 
 Welcome to my project! Here you'll find tons of inspiration and positivity.
-![OpenAI Logo](https://www.openai.com/content/images/2019/02/logo-col.svg)
 
 
 ## Features 🌈
