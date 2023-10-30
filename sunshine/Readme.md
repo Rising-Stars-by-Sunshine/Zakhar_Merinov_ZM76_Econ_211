@@ -8,6 +8,8 @@
 
 ### Abstract
 
+<img src="abstract_wordcloud.png" alt="Abstract Word Cloud">
+
 
 ## Bigram 
 
