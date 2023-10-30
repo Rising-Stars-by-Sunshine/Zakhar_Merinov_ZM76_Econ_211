@@ -8,9 +8,7 @@
 
 ### Abstract
 
-![Abstract Word Cloud](abstract_wordcloud.png)
-
-<img src="abstract_wordcloud.png" alt="Abstract Word Cloud">
+<img src="abstract_wordcould.png" alt="Abstract Word Cloud">
 
 
 ## Bigram 
