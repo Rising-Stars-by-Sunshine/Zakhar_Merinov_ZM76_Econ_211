@@ -1,19 +1,13 @@
-# Natural Language Processing Visualizations in A Survey on Medical Explainable AI (XAI): Recent Progress, Explainability Approach, Human Interaction and Scoring System & The four dimensions of contestable AI diagnostics - A patient-centric approach to explainable AI
+# Natural Language Processing Visualizations
 
+### Wordcloud
+## Title
 
-## Wordcloud
+## Abstract
 
-### Title
+### Biagram 
+## Title
 
-### Abstract
+## Abstract
 
-
-## Biagram 
-
-
-
-### Title
-
-
-##  Abstract
 
