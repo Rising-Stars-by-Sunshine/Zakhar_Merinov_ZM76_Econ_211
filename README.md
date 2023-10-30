@@ -32,3 +32,31 @@ Welcome to my project! Here you'll find tons of inspiration and positivity.
 ![chainlink](./chainlink.png)
 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Project README</title>
+</head>
+<body>
+
+<h1>My Project README</h1>
+
+<h2>Figures</h2>
+
+<h3>CSCC_AFTERNOONTEAM_Nov34.png</h3>
+<img src="CSCC_AFTERNOONTEAM_Nov34.png" alt="CSCC_AFTERNOONTEAM_Nov34">
+
+<h3>CSCC_Nov34.png</h3>
+<img src="CSCC_Nov34.png" alt="CSCC_Nov34">
+
+<h3>chainlink.png</h3>
+<img src="chainlink.png" alt="chainlink">
+
+</body>
+</html>
+
+
+
