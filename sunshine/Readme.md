@@ -8,7 +8,7 @@
 
 ### Abstract
 
-![Abstract Word Cloud](./abstract_wordcloud.png)
+![Abstract Word Cloud](abstract_wordcloud.png)
 
 <img src="abstract_wordcloud.png" alt="Abstract Word Cloud">
 
