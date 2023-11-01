@@ -1,12 +1,12 @@
 ## Title Wordcloud
-![Word Cloud](title_wordcloud2.png)
+![Word Cloud](Title_Wordcloud2.png)
 ## Abstract Wordcloud
-![Word Cloud](abstract_wordcloud2.png)
+![Word Cloud](Abstract_Wordcloud2.png)
 
 ## Title Bigram
-![Word Cloud](title_bigram2.png)
+![Word Cloud](Title_Bigram2.png)
 
 ## Abstract Bigram
-![Word Cloud](abstract_bigram2.png)
+![Word Cloud](Abstract_Bigram2.png)
 
 
