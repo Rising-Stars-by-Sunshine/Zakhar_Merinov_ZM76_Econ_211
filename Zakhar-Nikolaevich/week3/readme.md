@@ -1,3 +1,7 @@
+
+![Profile Picture](https://github.com/Rising-Stars-by-Sunshine/Econ211-Week2.github.io/assets/149359655/c48bacca-1a87-43ec-ae7a-a44fbd74cd66)
+
+
 Zakhar Merinov
 
 Contact Information:
