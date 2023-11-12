@@ -10,4 +10,7 @@ This dataset, titled 'ClimateData_Sample.csv', provides daily climate measuremen
 | Temperature (°C)  | Air Temperature           | Daily average air temperature              | Daily     | -5 to 30      | °C              | Numeric |
 | Humidity (%)      | Atmospheric Humidity      | Daily average relative humidity            | Daily     | 30% to 90%    | Percentage      | Numeric |
 | Wind Speed (km/h) | Wind Speed                | Daily average wind speed                   | Daily     | 0 to 100      | km/h            | Numeric |
+
+Reffer to the image for better understanding
+
 ![mermaid-diagram-2023-11-12-213712](https://github.com/Rising-Stars-by-Sunshine/Econ211-Week2.github.io/assets/149359655/1549db45-2f8b-4986-8c39-845161a56d19)
