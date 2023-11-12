@@ -15,7 +15,8 @@ This repository contains datasets, scripts, and documentation for analyzing clim
 
 ## About the Author
 
-https://user-images.githubusercontent.com/149359655/280634484-c48bacca-1a87-43ec-ae7a-a44fbd74cd66.png
+![image](https://github.com/Rising-Stars-by-Sunshine/Econ211-Week2.github.io/assets/149359655/1bd23120-8f9f-4c98-9039-101569fb29a1)
+
 
 ### Bio
 
