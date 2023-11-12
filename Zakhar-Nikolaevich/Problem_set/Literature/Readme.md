@@ -29,6 +29,7 @@ Experimental investigation involves actively applying XAI techniques to RCM emul
 The application of XAI in regional climate modeling, as illustrated by Bano-Medina et al. (2021), is a promising field that can significantly contribute to the accuracy and reliability of climate predictions. By leveraging theoretical analysis, empirical observation, and experimental investigation, researchers can enhance the understanding and trustworthiness of AI applications in this vital area.
 
 ---
+![image](https://github.com/Rising-Stars-by-Sunshine/Econ211-Week2.github.io/assets/149359655/29b21f0d-3374-4b8e-ae67-2a31f19c5c9c)
 
 ### References
 
