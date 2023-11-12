@@ -5,3 +5,6 @@ Explainable Artificial Intelligence (XAI) is an emerging area of AI research foc
 **Empirical Observation**: Collect and analyze data from real-world scenarios where these AI models are applied. This might include observing how the AI interprets different types of maritime activities and conditions in satellite imagery and comparing these interpretations with human expert analysis to identify discrepancies or areas for improvement.
 
 **Experimental Investigation**: Conduct experiments to test different XAI methods, such as feature visualization or attention mechanisms, within your AI models. This can reveal how changes in the AI’s internal processes affect its output and interpretability, specifically in the context of maritime tracking.
+
+Citations:
+Xie, Ning, Madalina Fiterau, and Ambuj Singh. "Explainable Deep Learning: A Field Guide for the Uninitiated." arXiv preprint arXiv:2107.07045 (2021). https://arxiv.org/abs/2107.07045.
