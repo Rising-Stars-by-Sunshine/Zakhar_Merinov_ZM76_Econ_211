@@ -1,0 +1,65 @@
+Initialize Data Query Process:
+
+function querySatelliteData():
+    // Set parameters for the satellite data query
+    satelliteDataSource = "Copernicus by ESA"
+    regionsOfInterest = ["major maritime routes", "key ports", ...]
+    resolution = "high"
+    timeFrame = setTimeInterval() // e.g., daily, weekly
+    historicalDataRange = setHistoricalDataRange() // e.g., past year
+
+    // Loop to query data at set intervals
+    for each timeInterval in timeFrame:
+        for each region in regionsOfInterest:
+            imageData = fetchSatelliteData(satelliteDataSource, region, resolution, timeInterval)
+            if imageData is not null:
+                storeInDatabase(imageData)
+            else:
+                handleDataFetchError()
+
+function queryAISData():
+    // Set parameters for the AIS data query
+    aisDataSource = "AIS Data Provider"
+    timeFrame = setTimeInterval() // Align with satellite data query intervals
+
+    // Query AIS data
+    for each timeInterval in timeFrame:
+        aisData = fetchAISData(aisDataSource, timeInterval)
+        if aisData is not null:
+            storeInDatabase(aisData)
+        else:
+            handleDataFetchError()
+
+function main():
+    // Initialize data query process
+    while true:
+        querySatelliteData()
+        queryAISData()
+        waitForNextInterval(timeFrame)
+
+// Supporting Functions
+
+function fetchSatelliteData(source, region, resolution, time):
+    // API call to satellite data provider
+    // Returns image data or null
+
+function fetchAISData(source, time):
+    // API call to AIS data provider
+    // Returns AIS data or null
+
+function storeInDatabase(data):
+    // Store the retrieved data in a database
+
+function handleDataFetchError():
+    // Handle any errors during data fetch
+
+function setTimeInterval():
+    // Define the time interval for data queries
+
+function setHistoricalDataRange():
+    // Define the range for querying historical data
+
+function waitForNextInterval(interval):
+    // Wait for the next interval before the next data query
+
+main()
