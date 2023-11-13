@@ -4,7 +4,7 @@ import pandas as pd
 # (Already completed above)
 
 # Step 2: Load the dataset from 'ClimateData_Sample.csv'
-data_file = '/path/to/your/ClimateData_Sample.csv'  # Replace with the actual file path
+data_file = 'https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Econ211-Week2.github.io/main/Zakhar-Nikolaevich/Problem_set/Data/ClimateData_Sample.csv'  # Replace with the actual file path
 df = pd.read_csv(data_file)
 
 # Step 3: Define query parameters (e.g., temperature threshold)
