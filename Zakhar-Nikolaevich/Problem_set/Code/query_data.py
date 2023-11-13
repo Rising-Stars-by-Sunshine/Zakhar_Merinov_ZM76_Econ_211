@@ -21,11 +21,10 @@ humidity_filtered = df[(df['Humidity (%)'] >= humidity_range[0]) & (df['Humidity
 wind_speed_filtered = df[df['Wind Speed (km/h)'] > wind_speed_threshold]
 
 # Step 5: Output the filtered dataset
-# Save filtered data to new CSV files
-temp_filtered.to_csv('/path/to/output/temperature_filtered.csv', index=False)
-humidity_filtered.to_csv('/path/to/output/humidity_filtered.csv', index=False)
-wind_speed_filtered.to_csv('/path/to/output/wind_speed_filtered.csv', index=False)
+# Save filtered data to new CSV files in the current working directory
+temp_filtered.to_csv('temperature_filtered.csv', index=False)
+humidity_filtered.to_csv('humidity_filtered.csv', index=False)
+wind_speed_filtered.to_csv('wind_speed_filtered.csv', index=False)
 
-# Step 6: (Optional) Perform further analysis or visualizations on the filtered data
-# Additional code can be added here for more analysis or visualizations
+
 
