@@ -64,6 +64,7 @@ The realm of cryptocurrency has seen exponential growth, leading to a surge in a
 
 ## Conclusion
 The studies featured in this repository offer a snapshot of the diverse and innovative approaches being employed in the quest to predict cryptocurrency prices. From machine learning to advanced statistical methods, these works serve as a foundation for future research and development in the field.
+![Explainable AI (XAI)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/1c70ce7d-324d-4283-b772-3069ecb989ce)
 
 ---
 
