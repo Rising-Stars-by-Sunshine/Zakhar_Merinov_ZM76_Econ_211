@@ -3,6 +3,15 @@
 ## Introduction
 The realm of cryptocurrency has seen exponential growth, leading to a surge in academic and industry interest in predicting cryptocurrency prices. This repository is dedicated to collating significant research that sheds light on various predictive models, methodologies, and their efficacies. Each study contributes to a growing body of knowledge that aims to understand and forecast the dynamic and often volatile cryptocurrency market.
 
+## Introduction to the Existing Literature (First Person Narrative)
+In my research, I delve into the intricate world of cryptocurrencies and blockchain, building upon a rich tapestry of existing literature. This body of work primarily addresses themes like decentralization and the dynamics of cryptocurrency prices. A key study that informs my research is "Is decentralized finance actually decentralized?" which scrutinizes the multifaceted nature of decentralization in blockchain and DeFi, introducing novel metrics for its quantification. This research not only highlights the complexity of decentralization in blockchain applications but also opens up avenues for a deeper understanding of how these technologies operate in practice.
+
+## My Research in Relation to Existing Literature
+My research draws inspiration from these foundational studies but takes a unique turn. While the aforementioned works focus on broad concepts like decentralization, my study zeroes in on the lesser-known cryptocurrencies. I aim to unearth the similarities among these obscure coins based on various criteria, including but not limited to the dynamics of their prices. This approach is akin to applying a fine-toothed comb to the vast landscape of cryptocurrencies, identifying patterns and correlations that might otherwise go unnoticed.
+
+## Advancements and Differentiation from Existing Literature
+What sets my research apart is the exploration of uncharted territories in the crypto world - the realm of less prominent coins. I'm not just analyzing the price fluctuations but also considering a range of factors like technological features, levels of decentralization, and market indicators. By doing so, I'm extending the conversation beyond the well-trodden paths of major cryptocurrencies and their decentralized nature. My multifactorial analysis aims to reveal potential trends and patterns in the cryptocurrency world, offering new insights into how these lesser-known coins might behave in relation to each other and within the broader crypto ecosystem. This holistic approach represents a significant advancement from the existing literature, adding a new dimension to our understanding of the crypto universe.
+
 ## Study Summaries
 
 ### 1. "Bitcoin Price Prediction Based on Other Cryptocurrencies Using Machine Learning and Time Series Analysis"
@@ -33,8 +42,3 @@ The realm of cryptocurrency has seen exponential growth, leading to a surge in a
 
 ## Conclusion
 The studies featured in this repository offer a snapshot of the diverse and innovative approaches being employed in the quest to predict cryptocurrency prices. From machine learning to advanced statistical methods, these works serve as a foundation for future research and development in the field.
-
----
-
-Contributions to this repository are welcome. Please ensure that any added studies are accompanied by a succinct summary and appropriate citations.
-
