@@ -35,3 +35,4 @@ The study's significance lies in enhancing the understanding and prediction of c
 #### Potential Recognition
 Should the work be groundbreaking, it might be recognized with prestigious awards. A fitting encapsulation of the contribution could be: "Revolutionizing Cryptocurrency Price Prediction through Advanced Machine Learning Techniques."
 
+![Explainable AI (XAI) (1)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/03708627-db91-49d0-8c1e-bc11e68d4e13)
