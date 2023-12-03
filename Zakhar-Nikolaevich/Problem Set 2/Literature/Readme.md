@@ -6,9 +6,7 @@ Cryptocurrencies, notably Bitcoin, have experienced substantial price volatility
 
 #### Key References:
 1. **Volatility and Prediction Models**: Studies have highlighted the high volatility of cryptocurrencies, with Bitcoin being a primary focus. Various frameworks, including machine learning techniques like Bayesian Neural Networks, Feed Forward, and Long Short Term Memory Neural Networks, have been employed for price prediction. 
-   - Reference: Cocco et al. (2021) [\[9\]](file-tIr3WmYhYrzv4JwSAFLcsEqB) [\[12\]](file-tIr3WmYhYrzv4JwSAFLcsEqB) [\[13\]](file-tIr3WmYhYrzv4JwSAFLcsEqB) [\[14\]](file-tIr3WmYhYrzv4JwSAFLcsEqB) [\[15\]](file-tIr3WmYhYrzv4JwSAFLcsEqB)
 2. **Hybrid Predictive Models**: The use of hybrid models like Neuro-Fuzzy controllers for forecasting the price of Bitcoin has been another focus area, demonstrating superior performance compared to simpler models and traditional strategies.
-   - Reference: [\[19\]](file-RHWTFFVd4E7bgp6XSo5iIYly) [\[22\]](file-RHWTFFVd4E7bgp6XSo5iIYly)
 
 ### My Research: Similarities and Advancements
 
