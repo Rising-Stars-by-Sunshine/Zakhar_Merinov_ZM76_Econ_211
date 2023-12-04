@@ -42,4 +42,7 @@ Step & Description \\
 7 & Evaluate Model (e.g., MSE, R2 Score) \\
 \hline
 \end{tabular}
+![Explainable AI (XAI)(3)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/bdd2011a-4b72-4c28-bd9c-b4bf363f9cc1)
+
+
 
