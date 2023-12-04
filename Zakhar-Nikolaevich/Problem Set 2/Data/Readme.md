@@ -22,3 +22,4 @@ The data provided in these datasets is sourced from CoinMarketCap, a leading pro
 ## Usage Note
 The structure and fields are consistent across all datasets in this collection. It is recommended to apply similar parsing methods for each dataset to extract and analyze the data effectively.
 
+![Explainable AI (XAI)(2)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/cf006d32-5e27-4f61-8254-f09b3170b8b4)
