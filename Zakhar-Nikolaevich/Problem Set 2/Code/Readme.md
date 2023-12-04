@@ -1,3 +1,24 @@
+# Summary of 'Problem Set 2 code.ipynb'
+
+## Key Aspects
+- **Total Code Cells**: 19
+- **Important Imports**:
+  - Data manipulation: `pandas`, `numpy`
+  - Machine Learning: `sklearn`, `statsmodels`
+  - Plotting: `matplotlib`
+
+## Main Functions
+- `preprocess_data`: For data cleaning and normalization.
+- `load_and_preprocess`: Combines loading and preprocessing steps.
+- `perform_adf_test`: Conducts ADF statistical test.
+- `plot_data`: For visualizing data.
+- `create_lagged_features`: Prepares features for time series analysis.
+- `machine_learning_analysis`: Applies machine learning models.
+- `check_stationarity`: Checks data stationarity.
+
+## Analysis Techniques
+- Cross-validation and mean squared error calculations are used, particularly with Random Forest (`RandomForestRegressor`) and Gradient Boosting (`GradientBoostingRegressor`) models.
+
 # README for Data Query Process
 
 ## Overview
