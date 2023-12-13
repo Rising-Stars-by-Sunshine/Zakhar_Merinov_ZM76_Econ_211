@@ -26,6 +26,8 @@ This README details a comprehensive data query process designed for versatility 
 
 Starting with the importation of essential libraries, the procedure advances through data loading, meticulous preprocessing, and rigorous statistical testing. This foundation sets the stage for the core of the process: model training using sophisticated techniques such as Linear Regression and ARIMA. The culmination of this workflow is a thorough evaluation of the model's performance, leveraging metrics like Mean Squared Error (MSE) and R-squared (R2) Score. This structured approach ensures a robust and scalable framework for analyzing complex datasets.
 
+![Explainable AI (XAI)(3)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/bdd2011a-4b72-4c28-bd9c-b4bf363f9cc1)
+
 ## Pseudo-Code (Latex Table Format)
 
 ```latex
@@ -44,7 +46,7 @@ Step & Description \\
 \end{tabular}
 
 
-![Explainable AI (XAI)(3)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/bdd2011a-4b72-4c28-bd9c-b4bf363f9cc1)
+
 
 
 
