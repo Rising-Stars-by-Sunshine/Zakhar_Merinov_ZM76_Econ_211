@@ -9,7 +9,8 @@
 - [Code](/Code/Readme.md)
 - [Main Readme](/Readme.md)
   
-![https://www.canva.com/design/DAF1_13NeJE/Bgb078wHKaN0NrDfDM0ZoQ/view?utm_content=DAF1_13NeJE&utm_campaign=designshare&utm_medium=link&utm_source=editor]
+![Cryptocurrency Price Prediction Research](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/ceae41eb-bcdd-43f0-b618-0a9f6c6b50a1)
+
 
 ## About the Author
 
