@@ -16,7 +16,7 @@ Each dataset is presented in a single column with concatenated fields, separated
 | Close      | Closing price for the day.            | float     | 238.234563 - 245.689438                    | Daily      | 238.234563                            |
 | Volume     | Trading volume for the day.           | float     | 95444150.0 - 247213000.0                   | Daily      | 95444150.0                            |
 | MarketCap  | Market capitalization.                | float     | 4657746000.0 - 4804134000.0                | Daily      | 4657746000.0                          |
-| Timestamp  | Date and time of the record.          | datetime  | -                                           | Daily      | 2023-11-04T00:00:00.000Z              |
+| Timestamp  | Date and time of the record.          | datetime  | 1 Month                                         | Daily      | 2023-11-04T00:00:00.000Z              |
 
 ## Source and Reliability
 The data provided in these datasets is sourced from CoinMarketCap, a leading provider of cryptocurrency market data. The information is widely regarded as reliable and accurate.
