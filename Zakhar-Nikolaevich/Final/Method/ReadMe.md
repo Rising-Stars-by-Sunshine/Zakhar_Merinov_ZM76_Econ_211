@@ -23,13 +23,6 @@ This research aims to answer the following specific questions:
 - Comparative analysis with alternative algorithms like ARIMA, Linear Regression, Random Forest, and Gradient Boosting Regressors will be conducted to evaluate the efficacy of the LSTM model in predicting cryptocurrency prices.
 - The study will encompass a range of cryptocurrencies, including but not limited to Bitcoin and Ethereum, to understand the predictive power across various market caps and volatility levels.
 
-## References
-- Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.
-- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Forecasting and Control.
-- Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). Introduction to Linear Regression Analysis.
-- Breiman, L. (2001). Random Forests. Machine Learning.
-- Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine.
-
 ### Results
 The research provides insights into the effectiveness of different predictive models. Key metrics like mean squared error and R-squared scores are used to evaluate performance. The results indicate varying degrees of success with different models, offering a comparative analysis of their predictive capabilities.
 
@@ -52,5 +45,12 @@ The study's significance lies in enhancing the understanding and prediction of c
 
 #### Potential Recognition
 Should the work be groundbreaking, it might be recognized with prestigious awards. A fitting encapsulation of the contribution could be: "Revolutionizing Cryptocurrency Price Prediction through Advanced Machine Learning Techniques."
+
+## References
+- Hochreiter, S., & Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.
+- Box, G. E. P., & Jenkins, G. M. (1976). Time Series Analysis: Forecasting and Control.
+- Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). Introduction to Linear Regression Analysis.
+- Breiman, L. (2001). Random Forests. Machine Learning.
+- Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine.
 
 ![Explainable AI (XAI) (1)](https://github.com/Rising-Stars-by-Sunshine/Zakhar_Merinov_Zm76_Econ_211/assets/149359655/03708627-db91-49d0-8c1e-bc11e68d4e13)
